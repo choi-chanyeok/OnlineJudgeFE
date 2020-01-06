@@ -1,4 +1,4 @@
-# HYMEC-1Day 1Week (VER 0.1)
+# HYMEC-1Day 1Week (Ver 0.1)
 
 
 ## 개발자
@@ -60,5 +60,6 @@ npm run dev
 + REST API를 활용한 Micro Service 원칙을 철저하게 따릅니다.
 
 ## 오픈소스 라이센스
-이 OnlineJudge는 '한국교원대학교 OJ 프론트 엔드 (VER 0.2)'를 이용하여 만들었음을 알려드립니다.
+'HYMEC-1Day 1Week'는 '한국교원대학교 OJ 프론트 엔드 (VER 0.2)'를 이용하여 만들었음을 알려드립니다.
+
 [MIT](http://opensource.org/licenses/MIT)
